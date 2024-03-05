@@ -1,0 +1,28 @@
+
+[{
+    "_id": {
+      "$oid": "60e05f94b063541f5cb2be02"
+    },
+    "assesmentYear": "2018-2019",
+    "acknowledgementNo": "KA1003",
+    "filingDate": "12-13-2018",
+    "organizationId": "60e2d27257a0d03ba4ed4fc3",
+    "itrStatus": false,
+    "creationDate": {
+      "$date": "2021-07-03T13:01:08.223Z"
+    }
+  },{
+    "_id": {
+      "$oid": "60e05fbeb063541f5cb2be05"
+    },
+    "assesmentYear": "2019-2020",
+    "acknowledgementNo": "KA1004",
+    "filingDate": "12-18-2019",
+    "organizationId": "60e2d27257a0d03ba4ed4fc3",
+    "itrStatus": false,
+    "creationDate": {
+      "$date": "2021-07-03T13:01:50.631Z"
+    }
+  }]
+
+  

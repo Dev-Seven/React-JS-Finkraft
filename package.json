@@ -1,0 +1,68 @@
+{
+  "name": "finkraft",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^6.1.2",
+    "@headlessui/react": "^1.3.0",
+    "@heroicons/react": "^1.0.1",
+    "@material-ui/core": "^4.11.4",
+    "@tailwindcss/forms": "^0.3.3",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "chart.js": "^3.4.1",
+    "flatlist-react": "^1.5.0",
+    "formik": "^2.2.9",
+    "mdbreact": "^5.0.2",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-activity": "^2.0.1",
+    "react-bootstrap": "^1.6.1",
+    "react-chartjs-2": "^3.0.3",
+    "react-d3-speedometer": "^1.0.1",
+    "react-date-picker": "^8.2.0",
+    "react-datepicker": "^4.1.1",
+    "react-dom": "^17.0.2",
+    "react-excel-renderer": "^1.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-switch": "^6.0.0",
+    "react-table": "^7.7.0",
+    "reactstrap": "^8.9.0",
+    "tailwind-react-ui": "^0.8.1",
+    "web-vitals": "^1.0.1",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.36",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.2"
+  }
+}
